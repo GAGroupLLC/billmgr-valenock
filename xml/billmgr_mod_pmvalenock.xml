@@ -32,16 +32,27 @@
     </messages>
     <messages name="paymethod.edit.valenock">
       <msg name="vl_merchant_id">Идентификатор магазина</msg>
-      <msg name="hint_vl_merchant_id">Идентификатор кассы в Валенке.</msg>
+      <msg name="hint_vl_merchant_id">Идентификатор магазина в Валенке.</msg>
       <msg name="vl_secret_key">Секретный ключ</msg>
-      <msg name="hint_vl_secret_key">Секретный ключ кассы в Валенке.</msg>
+      <msg name="hint_vl_secret_key">Секретный ключ магазина в Валенке.</msg>
     </messages>
   </lang>
+  
   <lang name="en">
     <messages name="plugin">
       <msg name="desc_short_pmvalenock">Valenock</msg>
-      <msg name="desc_full_pmvalenock">Валенок integration</msg>
+      <msg name="desc_full_pmvalenock">Valenock integration</msg>
       <msg name="price_pmvalenock">Free</msg>
+    </messages>
+    <messages name="label_paymethod">
+      <msg name="pmvalenock">Valenock</msg>
+      <msg name="module_pmvalenock">Valenock</msg>
+    </messages>
+    <messages name="paymethod.edit.valenock">
+      <msg name="vl_merchant_id">Merchant identifier</msg>
+      <msg name="hint_vl_merchant_id">Merchant id in valenock.</msg>
+      <msg name="vl_secret_key">Merchant secret key</msg>
+      <msg name="hint_vl_secret_key">Secret key in valenock.</msg>
     </messages>
   </lang>
 </mgrdata>
